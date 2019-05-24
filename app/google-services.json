@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038279502483",
+    "firebase_url": "https://simplefirebasenotificati-652d9.firebaseio.com",
+    "project_id": "simplefirebasenotificati-652d9",
+    "storage_bucket": "simplefirebasenotificati-652d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038279502483:android:ad0d9b7b7588e797",
+        "android_client_info": {
+          "package_name": "apps.basilisk.simplefirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038279502483-od7nsbmnribbfiua96l04l908ccoh1i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.basilisk.simplefirebasenotification",
+            "certificate_hash": "2538a76dd3d3dec566419c71bedb7714635fae75"
+          }
+        },
+        {
+          "client_id": "1038279502483-i3ad73lg4dt43isn6olhg246egv8gptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp45BJt0RUJogGunBi9y-VbfHKTuJ0PnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038279502483-i3ad73lg4dt43isn6olhg246egv8gptg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
